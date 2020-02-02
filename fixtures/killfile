@@ -1,0 +1,2 @@
+ignore-article "*" "title =~ \"1.0.1\""
+ignore-article "https://miniflux.app/feed.xml" "guid = \"https://miniflux.app/releases/1.0.0.html\""
